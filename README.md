@@ -23,10 +23,10 @@ Fortnightly on Thursday mornings:
     
   * 9:00am-11:30am, Thursday 29th September (convenor: Kathy)
       
-  * 9:00am-11:30am, Thursday 13th October (convenor: Andrew)
+  * 9:00am-11:30am, Thursday 13th October (convenor: Andy)
   
   * 9:00am-11:30am, Thursday 27th October (convenor: Christina)
 
-  * 9:00am-11:30am, Thursday 10th November (convenor: Andy), ACEAS workshop week
+  * Thursday 10th November, no hackathon, ACEAS workshop week
   
   * etc.
