@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.out
+*.txt
+__pycache__/
+iav_AABW_functions.py
