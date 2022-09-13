@@ -15,9 +15,9 @@ As we figure out the main results, we can add to the [Results Summary here](http
 
 Fortnightly on Thursday mornings:
 
-  * 9:30am-11:30am, Thursday 18th August (convenor: Adele)
+  * ~~9:30am-11:30am, Thursday 18th August (convenor: Adele)~~
  
-  * 9:00am-11:30am, Thursday 1st September (convenor: Matt)
+  * ~~9:00am-11:30am, Thursday 1st September (convenor: Matt)~~
   
   * 9:00am-11:30am, Thursday 15th September (convenor: Paul)
     
@@ -28,5 +28,7 @@ Fortnightly on Thursday mornings:
   * 9:00am-11:30am, Thursday 27th October (convenor: Christina)
 
   * Thursday 10th November, no hackathon, ACEAS workshop week
+  
+  * 9:00am-11:30am, Thursday 24th November (convenor: Taimoor)
   
   * etc.
