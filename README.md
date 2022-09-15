@@ -19,7 +19,7 @@ Fortnightly on Thursday mornings:
  
   * ~~9:30am-11:30am, Thursday 1st September (convenor: Matt)~~
   
-  * 9:30am-11:30am, Thursday 15th September (convenor: Paul)
+  * ~~9:30am-11:30am, Thursday 15th September (convenor: Paul)~~
     
   * 9:30am-11:30am, Thursday 29th September (convenor: Kathy)
       
