@@ -25,7 +25,7 @@ Fortnightly on Thursday mornings:
       
   * ~~9:30am-11:30am, Thursday 13th October (convenor: Christina)~~
   
-  * Thursday 27th October, no hackathon (meeting at COSIMA workshop Thursday 3rd November instead)
+  * Thursday 27th October, no hackathon (lunch meeting at COSIMA workshop Thursday 3rd November instead)
 
   * Thursday 10th November, no hackathon, ACEAS workshop week
   
