@@ -23,12 +23,12 @@ Fortnightly on Thursday mornings:
     
   * ~~9:30am-11:30am, Thursday 29th September (convenor: Kathy)~~
       
-  * 9:30am-11:30am, Thursday 13th October (convenor: Christina)
+  * ~~9:30am-11:30am, Thursday 13th October (convenor: Christina)~~
   
-  * 9:30am-11:30am, Thursday 27th October (convenor: Taimoor)
+  * Thursday 27th October, no hackathon (meeting at COSIMA workshop Thursday 3rd November instead)
 
   * Thursday 10th November, no hackathon, ACEAS workshop week
   
-  * 9:30am-11:30am, Thursday 24th November (convenor: Adele)
+  * 9:30am-11:30am, Thursday 24th November (convenor: Taimoor)
   
   * etc.
